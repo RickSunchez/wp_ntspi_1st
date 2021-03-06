@@ -1,0 +1,17 @@
+@charset "UTF-8";
+/*
+Theme Name: StudioKiss
+Theme URI: default
+Author: Rick
+Description: Description Description Description Description Description Description Description Description Description Description Description Description Description
+Version: 0.1
+*/
+
+* {
+	margin: 0px;
+	padding: 0px;
+}
+body {
+	display: flex;
+	background: red;
+}
